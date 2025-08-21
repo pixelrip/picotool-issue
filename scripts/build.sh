@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECT_NAME="p8-template" 
+PROJECT_NAME="picotool-issue" 
 SRC_DIR="src"
 ASSETS_DIR="assets"
 BUILD_DIR="build"
